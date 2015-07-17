@@ -1,6 +1,7 @@
 {
     "name": "intrepion/intrepion.com",
-    "license": "proprietary",
+    "description": "source code for intrepion.com",
+    "license": "MIT",
     "type": "project",
     "autoload": {
         "psr-4": {
