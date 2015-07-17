@@ -1,0 +1,14 @@
+{% extends 'base.html.twig' %}
+
+{% block body %}
+    <h1>An error occurred</h1>
+
+    {# example security usage, see below #}
+    {% if app.user and is_granted('IS_AUTHENTICATED_FULLY') %}
+        {# ... #}
+    {% endif %}
+
+    <p>
+        Please contact an administrator and <a href="{{ path('homepage') }}">return to the homepage</a>.
+    </p>
+{% endblock %}
