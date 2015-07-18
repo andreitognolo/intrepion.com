@@ -1,4 +1,4 @@
-box: wercker/php
+box: rootlogin/apache2-symfony2
 build:
   steps:
     - script:
