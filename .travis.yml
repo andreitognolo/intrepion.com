@@ -17,3 +17,4 @@ script:
 after_script:
     - ./bin/coveralls --verbose
     - bash <(curl -s https://codecov.io/bash)
+    - ./bin/test-reporter
