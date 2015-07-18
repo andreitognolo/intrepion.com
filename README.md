@@ -9,3 +9,4 @@ intrepion.com
 [![Coverage Status](https://coveralls.io/repos/intrepion/intrepion.com/badge.svg?branch=master&service=github)](https://coveralls.io/github/intrepion/intrepion.com?branch=master)
 [![Circle CI](https://circleci.com/gh/intrepion/intrepion.com.svg?style=svg)](https://circleci.com/gh/intrepion/intrepion.com)
 [![Codeship](https://codeship.com/projects/bc507d80-0f24-0133-4a5f-226e55fae8ac/status?branch=master)](https://codeship.com/projects/91893)
+[![wercker status](https://app.wercker.com/status/228e5b8c45440844c7d652146ba3b263/s "wercker status")](https://app.wercker.com/project/bykey/228e5b8c45440844c7d652146ba3b263)
