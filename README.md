@@ -10,3 +10,4 @@ intrepion.com
 [![Circle CI](https://circleci.com/gh/intrepion/intrepion.com.svg?style=svg)](https://circleci.com/gh/intrepion/intrepion.com)
 [![Codeship](https://codeship.com/projects/bc507d80-0f24-0133-4a5f-226e55fae8ac/status?branch=master)](https://codeship.com/projects/91893)
 [![Build Status](https://semaphoreci.com/api/v1/projects/b8da4dde-4298-416e-8653-dea8e5162fd7/487218/badge.svg)](https://semaphoreci.com/intrepion/intrepion-com-2)
+[![codecov.io](http://codecov.io/github/intrepion/intrepion.com/coverage.svg?branch=master)](http://codecov.io/github/intrepion/intrepion.com?branch=master)
