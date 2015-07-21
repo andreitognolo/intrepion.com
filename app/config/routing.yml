@@ -1,3 +1,8 @@
+intrepion_template_material_design_lite:
+    resource: "@IntrepionTemplateMaterialDesignLiteBundle/Controller/"
+    type:     annotation
+    prefix:   /
+
 app:
     resource: "@AppBundle/Controller/"
     type:     annotation

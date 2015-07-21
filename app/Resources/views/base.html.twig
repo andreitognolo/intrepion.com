@@ -2,12 +2,13 @@
 <html>
     <head>
         <meta charset="UTF-8" />
-        <title>{% block title %}Welcome!{% endblock %}</title>
-        {% block stylesheets %}{% endblock %}
+        {% block metas %}{% endblock metas %}
+        <title>{% block title %}intrepion{% endblock title %}</title>
+        {% block stylesheets %}{% endblock stylesheets %}
         <link rel="icon" type="image/x-icon" href="{{ asset('favicon.ico') }}" />
     </head>
     <body>
-        {% block body %}{% endblock %}
-        {% block javascripts %}{% endblock %}
+        {% block body %}{% endblock body %}
+        {% block javascripts %}{% endblock javascripts %}
     </body>
 </html>

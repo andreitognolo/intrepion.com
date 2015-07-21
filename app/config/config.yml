@@ -41,7 +41,8 @@ twig:
 assetic:
     debug:          "%kernel.debug%"
     use_controller: false
-    bundles:        [ ]
+    bundles:
+        - IntrepionTemplateMaterialDesignLiteBundle
     #java: /usr/bin/java
     filters:
         cssrewrite: ~
