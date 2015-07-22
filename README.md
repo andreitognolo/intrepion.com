@@ -18,3 +18,7 @@ intrepion.com
 [![Flattr this git repo](http://api.flattr.com/button/flattr-badge-large.png)](https://flattr.com/submit/auto?user_id=intrepion&url=https://github.com/intrepion/intrepion.com&title=intrepion.com&language=PHP&tags=github&category=software)
 [![Stories in Ready](https://badge.waffle.io/intrepion/intrepion.com.svg?label=ready&title=Ready)](http://waffle.io/intrepion/intrepion.com)
 [![Join the chat at https://gitter.im/intrepion/intrepion.com](https://badges.gitter.im/Join%20Chat.svg)](https://gitter.im/intrepion/intrepion.com?utm_source=badge&utm_medium=badge&utm_campaign=pr-badge&utm_content=badge)
+
+
+[![Bitdeli Badge](https://d2weczhvl823v0.cloudfront.net/intrepion/intrepion.com/trend.png)](https://bitdeli.com/free "Bitdeli Badge")
+
