@@ -1,4 +1,6 @@
 # intrepion.com
+
+[![Join the chat at https://gitter.im/intrepion/intrepion.com](https://badges.gitter.im/Join%20Chat.svg)](https://gitter.im/intrepion/intrepion.com?utm_source=badge&utm_medium=badge&utm_campaign=pr-badge&utm_content=badge)
 intrepion.com
 
 [![SensioLabsInsight](https://insight.sensiolabs.com/projects/6d56b1d7-839e-4401-8e19-ecca2609bf5d/mini.png)](https://insight.sensiolabs.com/projects/6d56b1d7-839e-4401-8e19-ecca2609bf5d)
