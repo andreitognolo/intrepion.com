@@ -2,7 +2,9 @@
 
 {% block stylesheets %}
 {{ parent() }}
-{% stylesheets 'bundles/intrepiontemplatematerialdesignlite/android-dot-com/styles.css' filter='cssrewrite' %}
+{% stylesheets
+    'bundles/intrepiontemplatematerialdesignlite/android-dot-com/styles.css'
+    filter='cssrewrite' %}
     <link rel="stylesheet" href="{{ asset_url }}" />
 {% endstylesheets %}
 <style>
